@@ -10,6 +10,6 @@ The results:
 
 Prediction examples:
 
-![alt text](https://github.com/Una865/Segmentations/blob/main/img1.png)
+
 ![alt text](https://github.com/Una865/Segmentations/blob/main/img2.png)
-![alt text](https://github.com/Una865/Segmentations/blob/main/img3.png)
+
