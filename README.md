@@ -7,4 +7,9 @@ The results:
 
 - accuracy on pixel segmentation: 96.86%
 - Dice score: 8.312
- 
+
+Prediction examples:
+
+![alt text](https://github.com/Una865/Segmentations/blob/main/img1.png)
+![alt text](https://github.com/Una865/Segmentations/blob/main/img2.png)
+![alt text](https://github.com/Una865/Segmentations/blob/main/img3.png)
